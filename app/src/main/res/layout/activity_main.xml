@@ -44,7 +44,6 @@
             app:tint="@color/white"
             android:contentDescription="@string/delete_image" />
 
-
         <ImageView
             android:id="@+id/more"
             android:layout_width="35dp"
