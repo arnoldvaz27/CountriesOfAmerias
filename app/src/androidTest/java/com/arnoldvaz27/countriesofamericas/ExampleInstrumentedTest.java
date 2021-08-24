@@ -1,4 +1,4 @@
-package com.arnold.countriesofamericas;
+package com.arnoldvaz27.countriesofamericas;
 
 import android.content.Context;
 

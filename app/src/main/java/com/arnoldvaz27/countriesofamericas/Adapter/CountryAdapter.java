@@ -1,4 +1,4 @@
-package com.arnold.countriesofamericas.Adapter;
+package com.arnoldvaz27.countriesofamericas.Adapter;
 
 import android.annotation.SuppressLint;
 import android.view.LayoutInflater;
@@ -11,10 +11,10 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.arnold.countriesofamericas.R;
-import com.arnold.countriesofamericas.JavaClasses.ImageFetch;
-import com.arnold.countriesofamericas.entites.Country;
-import com.arnold.countriesofamericas.listeners.CountryListeners;
+import com.arnoldvaz27.countriesofamericas.Activity.R;
+import com.arnoldvaz27.countriesofamericas.JavaClasses.ImageFetch;
+import com.arnoldvaz27.countriesofamericas.entites.Country;
+import com.arnoldvaz27.countriesofamericas.listeners.CountryListeners;
 
 import java.util.List;
 

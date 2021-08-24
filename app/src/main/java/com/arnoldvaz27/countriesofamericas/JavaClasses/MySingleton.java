@@ -1,4 +1,4 @@
-package com.arnold.countriesofamericas.JavaClasses;
+package com.arnoldvaz27.countriesofamericas.JavaClasses;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
